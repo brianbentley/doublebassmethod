@@ -1,0 +1,17 @@
+X:1
+Q:1/4=90
+M:C|
+I:linebreak $
+K:C
+V:1 bass transpose=-12
+V:1
+ C,4 | E,4 | ^D,4 | E,4 | F,2 E,2 | D,2 C,2 | B,, C, B,, A,, | G,,4 | D,4 | F,4 | E,4 | F,4 | %12
+ G,2 F,2 | E,2 D,2 | E, F, E, D, | C,4 | ^F,4 | E,2 D,2 | G,2 D,2 | G,,4 | ^D,4 | ^C,2 B,,2 | %22
+ E,2 B,,2 | E,,4 | A,, B,, C, D, | E,2 A,2 | G,, A,, B,, C, | D,2 G,2 | ^F,, G,, A,, B,, | %29
+ C, D, ^F, E, | D, C, A,, ^F,, | G,,4 | F,,4 | G,,2 B,,2 | C, B,, C, D, | E,4 | A,,4 | B,,2 ^C,2 | %38
+ D, ^C, D, E, | F,4 | G,2 F,2 | D,2 B,,2 | A,2 G,2 | E,2 C,2 | B,2 A,2 | F,2 D,2 | A,2 G,2 | %47
+ E,2 C,2 | G, F, D, B,, | G,, B,, D, F, | A, G, E, C, | G,, C, E, G, | B, A, F, D, | A, G, E, C, | %54
+ G, F, D, B,, | G,, ^G,, A,, B,, | C, B,, C, D, | E, D, E, F, | G, G,, ^F,, G,, | %59
+ ^G,, A,, ^A,, B,, | C, B,, C, D, | E, D, E, F, | G, G,, ^F,, G,, | ^G,, A,, ^A,, B,, | %64
+ C, B,, C, A, | G, ^F, G, E, | C, B,, C, A,, | G,, ^F,, G,, E,, | F,, A,, D, F, | G,2 C,2 | %70
+ G,2 G,,2 | C,2 z2 |] %72
