@@ -1,0 +1,9 @@
+X: 1
+T: Diatonic 7th Arpeggios
+M: 4/4
+L: 1/8
+Q: 1/4=60
+K: C
+V:1 bass transpose=-12
+V:1
+B,G,E,C, CA,F,D, | DB,G,E, ECA,F, | FDB,G, GECA, | AFDB, BGEC :||
